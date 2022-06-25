@@ -1,0 +1,13 @@
+﻿  RotatingCube3App.cpp
+c:\users\owner\desktop\3학년 2학기\컴퓨터그래픽스\cu_cg_courseexamples-master\cu_cg_courseexamples-master\firstopengl\rotatingcube3\rotatingcube3app.cpp(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  main_RotatingCube3.cpp
+c:\users\owner\desktop\3학년 2학기\컴퓨터그래픽스\cu_cg_courseexamples-master\cu_cg_courseexamples-master\firstopengl\rotatingcube3\main_rotatingcube3.cpp(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  InitShader.cpp
+c:\users\owner\desktop\3학년 2학기\컴퓨터그래픽스\cu_cg_courseexamples-master\cu_cg_courseexamples-master\firstopengl\rotatingcube3\initshader.cpp(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  GroundObj.cpp
+c:\users\owner\desktop\3학년 2학기\컴퓨터그래픽스\cu_cg_courseexamples-master\cu_cg_courseexamples-master\firstopengl\rotatingcube3\groundobj.cpp(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  CubeObj.cpp
+c:\users\owner\desktop\3학년 2학기\컴퓨터그래픽스\cu_cg_courseexamples-master\cu_cg_courseexamples-master\firstopengl\rotatingcube3\cubeobj.cpp(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  Camera.cpp
+c:\users\owner\desktop\3학년 2학기\컴퓨터그래픽스\cu_cg_courseexamples-master\cu_cg_courseexamples-master\firstopengl\rotatingcube3\camera.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/glm.hpp': No such file or directory
+  코드를 생성하고 있습니다...
